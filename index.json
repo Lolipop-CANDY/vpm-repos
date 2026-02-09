@@ -1,17 +1,21 @@
 {
-  "name": "ろりぽっぷCANDY VPM Repository",
-  "author": "ろりぽっぷCANDY",
-  "url": "https://lollipopcandy.github.io/vpm-repos/index.json",
+  "name": "LollipopCandy VPM Repository",
+  "id": "com.lollipopcandy.vpm-repos",
+  "url": "https://lolipop-candy.github.io/vpm-repos/index.json",
   "packages": {
     "com.lollipopcandy.avatar-thumbnail-manager": {
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "name": "com.lollipopcandy.avatar-thumbnail-manager",
           "displayName": "Avatar Thumbnail Manager",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2022.3",
           "description": "アバターサムネイル撮影管理ツール",
-          "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v1.0.0/com.lollipopcandy.avatar-thumbnail-manager-1.0.0.zip"
+          "author": {
+            "name": "ろりぽっぷCANDY",
+            "url": "https://github.com/lollipopcandy"
+          },
+          "url": "https://github.com/lollipopcandy/avatar-thumbnail-manager/releases/download/v1.0.1/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip"
         }
       }
     }
