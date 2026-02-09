@@ -1,14 +1,10 @@
 {
-  "name": "ろりぽっぷCANDY VPM Repository",
+  "name": "ろりぽっぷCANDY",
   "id": "com.lollipopcandy.vpm",
+  "author":"ろりぽっぷCANDY",
   "url": "https://Lolipop-CANDY.github.io/vpm-repos/index.json",
-  "author": {
-    "name": "ろりぽっぷCANDY",
-    "email": "",
-    "url": "https://ramchi.booth.pm/"
-  },
   "packages": {
-    "com.lollipopcandy.avatar-thumbnail-manager": {
+   "com.lollipopcandy.avatar-thumbnail-manager": {
       "versions": {
         "1.0.1": {
           "name": "com.lollipopcandy.avatar-thumbnail-manager",
@@ -25,8 +21,6 @@
           "zipSHA256": "",
           "changelogUrl": "",
           "dependencies": {}
-        }
-      }
-    }
-  }
-}
+          },
+          
+        },
