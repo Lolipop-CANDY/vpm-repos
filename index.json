@@ -1,7 +1,12 @@
 {
-  "name": "LollipopCandy VPM Repository",
-  "id": "com.lollipopcandy.vpm-repos",
-  "url": "https://lolipop-candy.github.io/vpm-repos/index.json",
+  "name": "ろりぽっぷCANDY VPM Repository",
+  "id": "com.lollipopcandy.vpm",
+  "url": "https://Lolipop-CANDY.github.io/vpm-repos/index.json",
+  "author": {
+    "name": "ろりぽっぷCANDY",
+    "email": "",
+    "url": "https://ramchi.booth.pm/"
+  },
   "packages": {
     "com.lollipopcandy.avatar-thumbnail-manager": {
       "versions": {
@@ -10,12 +15,16 @@
           "displayName": "Avatar Thumbnail Manager",
           "version": "1.0.1",
           "unity": "2022.3",
-          "description": "アバターサムネイル撮影管理ツール",
+          "description": "VRChatアバター用 サムネイル撮影管理エディタ拡張",
           "author": {
             "name": "ろりぽっぷCANDY",
-            "url": "https://github.com/lollipopcandy"
+            "url": "https://ramchi.booth.pm/"
           },
-          "url": "https://github.com/lollipopcandy/avatar-thumbnail-manager/releases/download/v1.0.1/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip"
+          "vpmDependencies": {},
+          "url": "https://Lolipop-CANDY.github.io/あなたのリポジトリ名/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip",
+          "zipSHA256": "",
+          "changelogUrl": "",
+          "dependencies": {}
         }
       }
     }
