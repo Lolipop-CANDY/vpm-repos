@@ -1,10 +1,10 @@
 {
   "name": "ろりぽっぷCANDY",
   "id": "com.lollipopcandy.vpm",
-  "author":"ろりぽっぷCANDY",
-  "url": "https://Lolipop-CANDY.github.io/vpm-repos/index.json",
+  "author": "ろりぽっぷCANDY",
+  "url": "https://lolipop-candy.github.io/vpm-repos/index.json",
   "packages": {
-   "com.lollipopcandy.avatar-thumbnail-manager": {
+    "com.lollipopcandy.avatar-thumbnail-manager": {
       "versions": {
         "1.0.1": {
           "name": "com.lollipopcandy.avatar-thumbnail-manager",
@@ -16,11 +16,11 @@
             "name": "ろりぽっぷCANDY",
             "url": "https://ramchi.booth.pm/"
           },
+          "dependencies": {},
           "vpmDependencies": {},
-          "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v1.0.1/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip",
-          "zipSHA256": "",
-          "changelogUrl": "",
-          "dependencies": {}
-          },
-          
-        },
+          "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v1.0.1/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip"
+        }
+      }
+    }
+  }
+}
