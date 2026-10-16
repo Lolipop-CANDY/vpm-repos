@@ -19,6 +19,21 @@
           "dependencies": {},
           "vpmDependencies": {},
           "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v1.0.1/com.lollipopcandy.avatar-thumbnail-manager-1.0.1.zip"
+        },
+        "2.0.0": {
+          "name": "com.lollipopcandy.avatar-thumbnail-manager",
+          "displayName": "Avatar Thumbnail Manager",
+          "version": "2.0.0",
+          "unity": "2022.3",
+          "description": "VRChatアバター用 サムネイル撮影管理エディタ拡張(NDMF/MA対応・背景色自動設定・SDKアイコン設定)",
+          "author": {
+            "name": "ろりぽっぷCANDY",
+            "url": "https://ramchi.booth.pm/"
+          },
+          "dependencies": {},
+          "vpmDependencies": {},
+          "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v2.0.0/com.lollipopcandy.avatar-thumbnail-manager-2.0.0.zip",
+          "zipSHA256": "97c5d64631dba80e07fc326d3a3334a77cf184fd4fbcdb6937fe5b6bf2af0b09"
         }
       }
     }
