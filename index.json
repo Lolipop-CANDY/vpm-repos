@@ -79,6 +79,21 @@
           "vpmDependencies": {},
           "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v3.0.2/com.lollipopcandy.avatar-thumbnail-manager-3.0.2.zip",
           "zipSHA256": "d4b519ef555ac2f743aff861fe242851b0e2d43b04637600bc4a6525db90b61c"
+        },
+        "3.0.3": {
+          "name": "com.lollipopcandy.avatar-thumbnail-manager",
+          "displayName": "Avatar Thumbnail Manager",
+          "version": "3.0.3",
+          "unity": "2022.3",
+          "description": "VRChatアバター用 サムネイル撮影管理エディタ拡張(シーンの見た目そのまま撮影・リアルタイムプレビュー・構図/背景/ポーズ・表情・全シーン一括撮影)",
+          "author": {
+            "name": "ろりぽっぷCANDY",
+            "url": "https://ramchi.booth.pm/"
+          },
+          "dependencies": {},
+          "vpmDependencies": {},
+          "url": "https://github.com/Lolipop-CANDY/avatar-thumbnail-manager/releases/download/v3.0.3/com.lollipopcandy.avatar-thumbnail-manager-3.0.3.zip",
+          "zipSHA256": "eedc3e368dba96d1a7301a73e20c2fe36b3f6d0bd73b35fa089d8685cd279eef"
         }
       }
     }
